@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Retextures the §ebow§r, §earrows§r and edits the §ecrossbow§r. By @opixeel",
+    "pack_format": 64,
+	"supported_formats": {"min_inclusive": 4, "max_inclusive": 99}
+  }
+}
